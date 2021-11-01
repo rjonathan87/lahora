@@ -2,7 +2,7 @@
 function App() {
   return (
     <>
-      <h2>Indicador de hora actual</h2>
+      <h2>La hora</h2>
     </>
   );
 }
