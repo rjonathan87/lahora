@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/lahora/static/js/main.02f1c684.chunk.js",
+    "main.js.map": "/lahora/static/js/main.02f1c684.chunk.js.map",
+    "runtime-main.js": "/lahora/static/js/runtime-main.9829e9c3.js",
+    "runtime-main.js.map": "/lahora/static/js/runtime-main.9829e9c3.js.map",
+    "static/js/2.006d871a.chunk.js": "/lahora/static/js/2.006d871a.chunk.js",
+    "static/js/2.006d871a.chunk.js.map": "/lahora/static/js/2.006d871a.chunk.js.map",
+    "index.html": "/lahora/index.html",
+    "static/js/2.006d871a.chunk.js.LICENSE.txt": "/lahora/static/js/2.006d871a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9829e9c3.js",
+    "static/js/2.006d871a.chunk.js",
+    "static/js/main.02f1c684.chunk.js"
+  ]
+}
