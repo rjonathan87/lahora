@@ -1,0 +1,2 @@
+(this.webpackJsonplahora=this.webpackJsonplahora||[]).push([[0],{9:function(e,t,r){"use strict";r.r(t);var n=r(1),c=r.n(n),a=r(3),o=r.n(a),s=r(0);var h=function(){return Object(s.jsx)(s.Fragment,{children:Object(s.jsx)("h2",{children:"La hora"})})};o.a.render(Object(s.jsx)(c.a.StrictMode,{children:Object(s.jsx)(h,{})}),document.getElementById("root"))}},[[9,1,2]]]);
+//# sourceMappingURL=main.7acdb905.chunk.js.map

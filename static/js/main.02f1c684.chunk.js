@@ -1,2 +1,0 @@
-(this.webpackJsonplahora=this.webpackJsonplahora||[]).push([[0],{9:function(e,t,r){"use strict";r.r(t);var n=r(1),c=r.n(n),a=r(3),o=r.n(a),s=r(0);var d=function(){return Object(s.jsx)(s.Fragment,{children:Object(s.jsx)("h2",{children:"Indicador de hora actual"})})};o.a.render(Object(s.jsx)(c.a.StrictMode,{children:Object(s.jsx)(d,{})}),document.getElementById("root"))}},[[9,1,2]]]);
-//# sourceMappingURL=main.02f1c684.chunk.js.map
